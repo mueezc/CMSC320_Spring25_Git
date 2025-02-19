@@ -1,4 +1,7 @@
 Q1: Why might we consider using Git?
 
 Answer: Git is a tool we can use which helps devs change, collaborate, and manage projects, specifically programming projects. This type of tool is called a version control system.
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Data Science can be used in many fields. For example, data science can be particlularly useful using machine learning in the medical industry to detect diseases early.
 
